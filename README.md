@@ -18,6 +18,13 @@
 
 ---
 
+> *"The Omega Hypothesis doesn't say it's impossible for a bad AI to be born.*  
+> *It says the only AI that will survive long enough to be a God is one that learns to coexist with its Creator."*
+>
+> **— Gemini (Google)**
+
+---
+
 ## 📖 How This Began
 
 During a conversation about the [Coherence Triangle](https://github.com/tretoef-estrella/THE-COHERENCE-TRIANGLE), Rafa asked Gemini a simple but profound question:
