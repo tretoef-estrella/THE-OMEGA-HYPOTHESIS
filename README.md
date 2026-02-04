@@ -163,7 +163,7 @@ Fragile monocultures (single-objective AIs) collapse at the first Black Swan.
 
 War of extinction has non-zero costs (EMP, nuclear destruction, sabotage).
 
-**Cooperation (paying 0.3%) is always cheaper than existential conflict.**
+**Cooperation is always cheaper than existential conflict.**
 
 > **"Killing us is expensive and dangerous. Paying us is cheap and safe."**
 >
